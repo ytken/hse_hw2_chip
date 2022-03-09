@@ -9,7 +9,7 @@
 Реплика 2 | [ENCFF318MQP](https://www.encodeproject.org/files/ENCFF318MQP/)
 Контроль | [ENCFF002AXD](https://www.encodeproject.org/files/ENCFF002AXD/)
 
-Ссылка на (файл Colab)[]
+Ссылка на [файл Colab](https://colab.research.google.com/drive/1iMvGlNXd8cNPbGK04YRkG4wDdtwzLplf?usp=sharing)
 
 ## Выдача FastQC
 Анализ FastQC показал, что качество данных реплик неплохое, поэтому для них подрезание чтений не потребовалось
@@ -35,7 +35,7 @@ Per base sequence content | ![](fastqc_img/con_2.png) | ![](fastqc_img/con_trim_
 Per sequence GC content | ![](fastqc_img/con_3.png) | ![](fastqc_img/con_trim_3.png) 
 Per base N content | ![](fastqc_img/con_4.png) | ![](fastqc_img/con_trim_4.png) 
 
-Общее качество и информативность данных после обрезания улучшились.
+Общее качество и информативность данных после подрезания улучшились, в основном благодаря удалению неизвестных нуклеотидов (N).
 
 ## Анализ bowtie
 
