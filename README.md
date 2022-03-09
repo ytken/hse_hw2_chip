@@ -74,5 +74,15 @@ Per base N content | ![](fastqc_img/con_4.png) | ![](fastqc_img/con_trim_4.png)
 хромосому, тогда как экспериментальные данные выравнивались на всю последовательность.
 К тому же, поиск пиков в файлах ENCODE мог происходить с другими критериями, чем у наших файлов реплик.
 
+## Бонус
+
+Выберем следующие файлы:
++ [ENCFF025UVM](https://www.encodeproject.org/files/ENCFF025UVM/)
++ [ENCFF936AVN](https://www.encodeproject.org/files/ENCFF936AVN/)
+
+Преобразуем их из формата .bam в .bigWig, затем подсчитаем ngsplot при помощи deeptools.
+
+Результаты:
+
 
 
