@@ -84,9 +84,9 @@ Per base N content | ![](fastqc_img/con_4.png) | ![](fastqc_img/con_trim_4.png)
 
 Результаты:
 
-![](/ngsplot/result1.png)
-
-![](/ngsplot/result2.png)
+Файл 1 | Файл 2
+--- | ---
+![](/ngsplot/result1.png) | ![](/ngsplot/result2.png)
 
 ![](/ngsplot/article_graph.png)
 
